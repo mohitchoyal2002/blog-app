@@ -1,0 +1,32 @@
+.blog-page{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 150px;
+}
+
+.blog-img{
+    filter: grayscale(0%);
+    height: 400px;
+    width: 700px;
+}
+
+.blog-dis{
+    line-height: 2rem;
+}
+
+.back-link{
+    text-decoration: none;
+    color: #000;
+}
+.back-link:hover{
+    color: #000;
+}
+
+.back-div{
+    position: absolute;
+    top: 150px;
+    left: 50px;
+    z-index: 10;
+}

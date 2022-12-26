@@ -1,0 +1,23 @@
+.footer{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    align-items: center;
+    background: rgb(95, 95, 95);
+    opacity: 0.8;
+    color: #fff;
+    box-shadow: 10px 10px 10px 15px rgba(0,0,0, 0.5);
+}
+
+.socials__icons{
+    display: flex;
+    justify-content: space-evenly;
+    margin-bottom: 20px;
+}
+
+h5{
+    font-weight: 400;
+}

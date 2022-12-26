@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@500&display=swap');
+
+.home{
+    margin-bottom: 120px;
+}
+
+.btn-div{
+    font-family: 'Montserrat', sans-serif;
+    display: flex;
+    justify-content: flex-end;
+    padding-top: 10px;
+    padding-right: 50px;
+}
+
+.card__row{
+    display: flex;
+    margin: 50px;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+
+.no__head{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);    
+}

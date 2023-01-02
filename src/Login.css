@@ -10,11 +10,8 @@ h1{
     /* left: 40%; */
 }
 .header{
-    background: rgb(95, 95, 95);
-    opacity: 0.6;
-    color: #fff;
     padding-bottom: 20px;
-    box-shadow: 10px 10px 10px rgba(128, 126, 126, 0.5);
+    box-shadow: 20px 20px 20px rgba(128, 126, 126, 0.5);
 }
 .login__container{
     background-color: rgba(255, 255, 255, 0.5);

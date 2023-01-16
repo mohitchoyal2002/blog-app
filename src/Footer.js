@@ -10,7 +10,6 @@ import { pink } from '@mui/material/colors';
 const Footer = () => {
   return (
     <div className='footer'>
-        <h2>Contact Us</h2>
         <div className="socials__icons">
             <IconButton href="https://www.linkedin.com/in/mohit-choyal/" target='_blank'>
                 <LinkedInIcon fontSize='large' color="primary" />
